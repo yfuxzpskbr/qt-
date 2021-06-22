@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainscene.o
+./release\mypushbutton.o
+./release\easypattern.o
+./release\gameoverdialog.o
+./release\commonpattern.o
+./release\difficultpattern.o
+./release\qrc_res.o
+./release\moc_mainscene.o
+./release\moc_mypushbutton.o
+./release\moc_easypattern.o
+./release\moc_gameoverdialog.o
+./release\moc_commonpattern.o
+./release\moc_difficultpattern.o
+);

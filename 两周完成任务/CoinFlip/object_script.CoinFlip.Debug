@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainsence.o
+./debug\mypushbutton.o
+./debug\chooselevelsence.o
+./debug\playgame.o
+./debug\mycoin.o
+./debug\dataconfig.o
+./debug\qrc_res.o
+./debug\moc_mainsence.o
+./debug\moc_mypushbutton.o
+./debug\moc_chooselevelsence.o
+./debug\moc_playgame.o
+./debug\moc_mycoin.o
+./debug\moc_dataconfig.o
+);

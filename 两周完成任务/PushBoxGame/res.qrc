@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/start.png</file>
+        <file>res/startBtn.png</file>
+        <file>res/title.png</file>
+        <file>res/box.jpg</file>
+        <file>res/boxindes.jpg</file>
+        <file>res/rabbit.png</file>
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/chooseBackground.png</file>
+        <file>res/wall.png</file>
+        <file>res/player.png</file>
+        <file>res/star.png</file>
+        <file>res/blank.png</file>
+        <file>res/background.png</file>
+        <file>res/backBtn.wav</file>
+        <file>res/levelBtn.wav</file>
+        <file>res/startBtn.wav</file>
+        <file>res/moveSound.wav</file>
+        <file>res/succeedSound.wav</file>
+        <file>res/winsence.png</file>
+    </qresource>
+</RCC>

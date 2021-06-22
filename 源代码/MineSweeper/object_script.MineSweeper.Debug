@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainscene.o
+./debug\mypushbutton.o
+./debug\easypattern.o
+./debug\gameoverdialog.o
+./debug\commonpattern.o
+./debug\difficultpattern.o
+./debug\qrc_res.o
+./debug\moc_mainscene.o
+./debug\moc_mypushbutton.o
+./debug\moc_easypattern.o
+./debug\moc_gameoverdialog.o
+./debug\moc_commonpattern.o
+./debug\moc_difficultpattern.o
+);

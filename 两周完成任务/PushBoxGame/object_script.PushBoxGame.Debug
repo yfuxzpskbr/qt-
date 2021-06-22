@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainscene.o
+./debug\mypushbutton.o
+./debug\chooselevel.o
+./debug\gamesence.o
+./debug\dataconfig.o
+./debug\item.o
+./debug\qrc_res.o
+./debug\moc_mainscene.o
+./debug\moc_mypushbutton.o
+./debug\moc_chooselevel.o
+./debug\moc_gamesence.o
+./debug\moc_dataconfig.o
+./debug\moc_item.o
+);

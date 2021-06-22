@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackGround.png</file>
+        <file>res/CommonBtn.png</file>
+        <file>res/DeadMine.png</file>
+        <file>res/DifficultBtn.png</file>
+        <file>res/EasyBtn.png</file>
+        <file>res/Flag.png</file>
+        <file>res/Mine.png</file>
+        <file>res/MineClearance.png</file>
+        <file>res/Number1.png</file>
+        <file>res/Number2.png</file>
+        <file>res/Number3.png</file>
+        <file>res/Number4.png</file>
+        <file>res/Number5.png</file>
+        <file>res/Title.png</file>
+        <file>res/EasyBg.png</file>
+        <file>res/backBtn.png</file>
+        <file>res/BlockBg.png</file>
+        <file>res/Number0.png</file>
+        <file>res/Question.png</file>
+        <file>res/LoseGame.png</file>
+        <file>res/backBtn2.png</file>
+        <file>res/Number6.png</file>
+    </qresource>
+</RCC>
